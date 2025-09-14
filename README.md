@@ -1,2 +1,2 @@
-# Myo-Thaw-Khant
-MM.User.Cryto
+# My First Time
+Hello GitHub! 🎉
